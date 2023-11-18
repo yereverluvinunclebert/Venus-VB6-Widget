@@ -1,6 +1,6 @@
-POSTER WIDGET
+VENUS WIDGET
 
-The Poster Widget is a utility displaying a simple widget icon in a steampunk fashion on your desktop. It can be resized and placed anywhere on your desktop. It uses minimal resources and helps give your desktop a steampunk make-over. You can assign the widget a specific function or file to run so it acts in a similar fashion to a configurable desktop icon. It is really a bit of desktop candy with some extra capability.
+The Venus Widget is a utility displaying a simple widget icon in a steampunk fashion on your desktop. It can be resized and placed anywhere on your desktop. It uses minimal resources and helps give your desktop a steampunk make-over. You can assign the widget a specific function or file to run so it acts in a similar fashion to a configurable desktop icon. It is really a bit of desktop candy with some extra capability.
 
 Right-click on the widget to display the function menu. Mouse-hover over the widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP to Windows 11+. It also operates on the open source Windows-compatible o/s, ReactOS and on Linux with Wine.
 
