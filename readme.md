@@ -1,7 +1,7 @@
 # Venus-Widget-VB6
 The Steampunk Venus Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Venus Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![Venus](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/e248af44-effc-4145-ba04-1a9b7ad4301a)
+![venus](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/c9985139-52a8-4be7-927d-f9d8079ff1cb)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Mars. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -15,6 +15,8 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  ![vb6-logo-200](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6/assets/2788342/7986e544-0b94-4a10-90bb-2d9fb60c294a)
  
 Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in the guise of 100% compatible TwinBasic, coupled with support for transparent PNGs via Olaf Schmidt's RC/Cairo wrapper, VB6 code has an amazing future.
+
+![planets](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/d33a7f86-cad2-434c-ba73-49aecf2d023c)
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
  
@@ -37,7 +39,8 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![help](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/b73c459e-7781-43e1-9cbb-803560c90277)
+![help](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/5639cfa2-fc46-4214-a046-80d4ee2359e1)
+
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -46,7 +49,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/325a7f7a-c97e-49e6-9c8d-15b1da8cc8f7)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/9b72dace-ab6e-4349-a156-9dd155d14c44)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
@@ -92,7 +95,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/06433349-4cef-4ac3-a75b-205b8b4ac973)
+![about](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/e680a590-b27f-4fe6-88f0-aeded9427d65)
+
 
  CREDITS:
  
@@ -211,7 +215,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
  
-![desktop](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/68003c0c-db0d-4d32-b5ac-d4978f4e2935)
+![desktop](https://github.com/yereverluvinunclebert/Venus-VB6-Widget/assets/2788342/224e2b9c-5a03-446e-a11f-931338515eb6)
+
 
 
 
