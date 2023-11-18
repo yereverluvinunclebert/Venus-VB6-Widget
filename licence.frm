@@ -18,7 +18,7 @@ Begin VB.Form frmLicence
       BackColor       =   &H00414D38&
       Height          =   4245
       Left            =   -60
-      Picture         =   "licence.frx":25CA
+      Picture         =   "licence.frx":10CA
       ScaleHeight     =   4185
       ScaleWidth      =   5055
       TabIndex        =   0
