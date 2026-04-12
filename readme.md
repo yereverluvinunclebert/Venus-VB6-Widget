@@ -69,7 +69,9 @@ If you are just a casual user of desktop programs then simply download the SETUP
  Built using: VB6, MZ-TOOLS 3.0, VBAdvance, CodeHelp Core IDE Extender
  Framework 2.2 & Rubberduck 2.4.1, RichClient 6
  
- Links:
+ **Links:**
+
+  External links are provided for reference only. Please verify sources before downloading any third-party software.
  
 	https://www.vbrichclient.com/#/en/About/
 	MZ-TOOLS https://www.mztools.com/  
